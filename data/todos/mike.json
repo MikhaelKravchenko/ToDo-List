@@ -1,0 +1,25 @@
+{
+    "counter": 4,
+    "todos": [
+        {
+            "completed": false,
+            "description": "first",
+            "item_id": 1
+        },
+        {
+            "completed": false,
+            "description": "third",
+            "item_id": 3
+        },
+        {
+            "completed": true,
+            "description": "second",
+            "item_id": 2
+        },
+        {
+            "completed": false,
+            "description": "works fine",
+            "item_id": 4
+        }
+    ]
+}
